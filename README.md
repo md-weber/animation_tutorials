@@ -7,6 +7,9 @@
 
 All Tutorials regarding Animations
 
+## Resources
+- [Witcher Animation in Rive](https://rive.app/community/1773-3498-witcher-head-animation/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
