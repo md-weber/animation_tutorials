@@ -1,4 +1,4 @@
-import 'package:animation_tutorials/border-animation-round.dart';
+import 'package:animation_tutorials/rive-animation.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const BorderAnimationRound(),
+      home: const WitcherAnimationRive(),
     );
   }
 }
